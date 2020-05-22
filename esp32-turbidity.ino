@@ -4,8 +4,8 @@
 #include "mainpage.h"
 #include "jscript.h"
 
-const char* ssid = "PLDTHOMEFIBRjVZpa";
-const char* password = "stacey0921";
+const char* ssid = "<your WiFI SSID>";
+const char* password = "<your WiFi Password>";
 
 WebServer server(80);
 
